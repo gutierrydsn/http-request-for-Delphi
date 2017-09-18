@@ -28,7 +28,7 @@
     HTTPRequest.POST('http://url/resource',myObjectInJSON);
 ```
 
-##### POST
+##### DELETE
 - use simple request
 ``` pascal
     
