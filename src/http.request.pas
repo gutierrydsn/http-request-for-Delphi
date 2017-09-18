@@ -5,7 +5,7 @@ interface
 uses
   SysUtils, Variants, Classes, Datasnap.DSClientRest, REST.Client, REST.Types,
   DBXJSON, System.JSON, Data.DB, Datasnap.DBClient,
-  Data.DBXJSONCommon, IPPeerClient, FMX.Dialogs, REST.Exception;
+  Data.DBXJSONCommon, IPPeerClient, REST.Exception;
 
 type
   THTTPResponse = String;
